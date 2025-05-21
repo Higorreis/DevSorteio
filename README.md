@@ -12,6 +12,7 @@
 https://github.com/user-attachments/assets/585e8c9f-80c7-4b0a-9a22-edd0b44cfdd7
 
  <h2>🔗 Link do Projeto:</h2>
+ https://higorreis.github.io/DevSorteio/
 
 
 
